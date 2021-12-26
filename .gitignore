@@ -1,0 +1,11 @@
+# hidden files
+!.git*
+
+# mac file
+.DS_Store
+
+# IDE
+*.iml
+.idea/
+target/
+out/
